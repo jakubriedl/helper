@@ -1,0 +1,5 @@
+formatter.name: pretty
+suites:
+    helpers_suite:
+      namespace: JakubRiedl\Helper
+      psr4_prefix: JakubRiedl\Helper

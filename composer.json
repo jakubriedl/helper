@@ -1,0 +1,21 @@
+{
+    "name": "jakubriedl/helper",
+    "description": "Helpers Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Riedl",
+            "email": "email@jakubriedl.cz"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "JakubRiedl\\Helper\\" : "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "2.1.*"
+    }
+}
